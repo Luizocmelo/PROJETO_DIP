@@ -3,11 +3,11 @@ Disciplina de Processamento digital de Imagem, 2020.1, do Instituto de Computaç
 Orientação do Professor: Tiago vieira.
 
 
-Baseado no Artigo: **An Experimental-based Review of Image Enhancement and Image Restoration Methods for Underwater Imaging**
-Autores: *Yan Wang, Wei Song, Giancarlo Fortino, Lizhe Qi, Wenqiang Zhang, Antonio Liotta*.
+Baseado no Artigo: An Experimental-based Review of Image Enhancement and Image Restoration Methods for Underwater Imaging
+Autores: Yan Wang, Wei Song, Giancarlo Fortino, Lizhe Qi, Wenqiang Zhang, Antonio Liotta.
 
 
-#####Modelos de processamento analisados:
+Modelos de processamento analisados:
 1. HE
 2. RayleighDistribution
 3. MIP
@@ -16,7 +16,7 @@ Autores: *Yan Wang, Wei Song, Giancarlo Fortino, Lizhe Qi, Wenqiang Zhang, Anton
 6. UDCP
 
 
-#####Bibliotecas:
+Bibliotecas:
 1. python = 3.6
 2. cv2
 3. numpy
@@ -29,7 +29,7 @@ Autores: *Yan Wang, Wei Song, Giancarlo Fortino, Lizhe Qi, Wenqiang Zhang, Anton
 10. matplotlib - acrescentada*
 
 
-#####Modo de execução:
+Modo de execução:
 1.Configurar, nas main's o caminho dos arquivos. Caminho ate o diretorio: PROJETO_DIP. O codígo busca a pasta InputImages.
 2.Imagens para análise colocadas na pasta InputImages
 3.Rodar as main's
