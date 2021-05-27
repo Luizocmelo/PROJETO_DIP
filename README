@@ -28,6 +28,10 @@ Bibliotecas:
 9. datetime
 10. matplotlib - acrescentada*
 
+Para Detecção de Objetos:
+1. numpy
+2. cv2
+3. mahotas
 
 Modo de execução:
 1. Configurar, nas main's o caminho dos arquivos. Caminho ate o diretorio: PROJETO_DIP. O codígo busca a pasta InputImages.
