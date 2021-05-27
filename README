@@ -30,7 +30,17 @@ Bibliotecas:
 
 
 Modo de execução:
-1.Configurar, nas main's o caminho dos arquivos. Caminho ate o diretorio: PROJETO_DIP. O codígo busca a pasta InputImages.
-2.Imagens para análise colocadas na pasta InputImages
-3.Rodar as main's
-4.imagens de saida salvas na pasta de cada modelo de processamento
+1. Configurar, nas main's o caminho dos arquivos. Caminho ate o diretorio: PROJETO_DIP. O codígo busca a pasta InputImages.
+2. Imagens para análise colocadas na pasta InputImages
+3. Rodar as main's
+4. imagens de saida salvas na pasta de cada modelo de processamento
+
+
+Detecção de Objetos:
+1. Determinar qual filtro nas variaveis indicada no Deteccao_objetos.py
+
+
+
+
+
+
