@@ -1,47 +1,11 @@
 Projeto dos alunos: Luiz Melo.
-Disciplina de Processamento digital de Imagem, 2020.1, do Instituto de Computação da Universidade Federal de Alagoas.
+Disciplina de Processamento digital de Imagem, 2020.2, do Instituto de Computação da Universidade Federal de Alagoas.
 Orientação do Professor: Tiago vieira.
 
 
 Baseado no Artigo: An Experimental-based Review of Image Enhancement and Image Restoration Methods for Underwater Imaging
 Autores: Yan Wang, Wei Song, Giancarlo Fortino, Lizhe Qi, Wenqiang Zhang, Antonio Liotta.
 
-
-Modelos de processamento analisados:
-1. HE
-2. RayleighDistribution
-3. MIP
-4. ICM
-5. ULAP
-6. UDCP
-
-
-Bibliotecas:
-1. python = 3.6
-2. cv2
-3. numpy
-4. scipy
-5. matplotlib
-6. scikit-image
-7. natsort
-8. math
-9. datetime
-10. matplotlib - acrescentada*
-
-Para Detecção de Objetos:
-1. numpy
-2. cv2
-3. mahotas
-
-Modo de execução:
-1. Configurar, nas main's o caminho dos arquivos. Caminho ate o diretorio: PROJETO_DIP. O codígo busca a pasta InputImages.
-2. Imagens para análise colocadas na pasta InputImages
-3. Rodar as main's
-4. imagens de saida salvas na pasta de cada modelo de processamento
-
-
-Detecção de Objetos:
-1. Determinar qual filtro nas variaveis indicada no Deteccao_objetos.py
 
 
 
